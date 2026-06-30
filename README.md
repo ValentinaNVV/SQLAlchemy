@@ -1,4 +1,4 @@
-# SQLAlchemy Homework
+# SQLAlchemy_hm
 
 Проект демонстрирует базовую работу с базами данных через SQLAlchemy ORM.
 
@@ -8,7 +8,7 @@
 Данные основаны на структуре [DummyJSON](https://dummyjson.com/).
 
 
-# SQLAlchemy ORM Project
+# SQLAlchemy
 
 Проект для работы с базой данных SQLite через SQLAlchemy ORM. Данные загружаются из [DummyJSON](https://dummyjson.com/) и сохраняются в базу со связями между таблицами.
 
